@@ -1,6 +1,6 @@
 # 🧑‍💼 Fila de Atendimento com Tkinter
 
-Um projeto simples feito em Python para simular uma fila de atendimento com interface gráfica usando `Tkinter`.
+Um projeto simples feito em Python para simular uma fila de atendimento com interface gráfica.
 
 ## 💡 Funcionalidades
 
@@ -8,10 +8,6 @@ Um projeto simples feito em Python para simular uma fila de atendimento com inte
 - Atender clientes na ordem de chegada (FIFO)
 - Interface gráfica simples com atualização da fila em tempo real
 - Mensagem informando quem está sendo atendido
-
-## 🖼️ Interface
-
-![Tela do Projeto](screenshot.png) <!-- Você pode adicionar uma imagem depois se quiser -->
 
 ## 📁 Estrutura do Projeto
 
@@ -24,11 +20,12 @@ fila_atendimento/
 ## 🚀 Como executar
 
 1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/fila-atendimento-python.git
+
+git clone https://github.com/TriggerTech/fila-atendimento-python.git
 cd fila-atendimento-python
 
     Execute o projeto:
+
 
 python interface.py
 
@@ -41,6 +38,7 @@ python interface.py
     Tkinter (interface gráfica)
 
     Deque (estrutura de fila eficiente)
+
 
 📌 Possíveis melhorias
 
